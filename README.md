@@ -1,2 +1,0 @@
-# pnshrrepo
-Coursera test repository
